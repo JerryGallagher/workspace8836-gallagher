@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="webproject-Term-Project-Gallagher">
+    <wb-module deploy-name="Recipe">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="java-output-path" value="/webproject-Term-Project-Gallagher/build/classes"/>
-        <property name="context-root" value="webproject-Term-Project-Gallagher"/>
+        <property name="java-output-path" value="/Recipe/build/classes"/>
+        <property name="context-root" value="Recipe"/>
     </wb-module>
 </project-modules>
