@@ -1,6 +1,2 @@
-/MyServletHibernateDBGallagher.class
-/SimpleInsertHB.class
-/SimpleSearchHB.class
-/datamodel/
 /hibernate.cfg.xml
-/util/
+/.gitignore
